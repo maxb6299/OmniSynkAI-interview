@@ -1,0 +1,1 @@
+# OmniSynkAI-interview
