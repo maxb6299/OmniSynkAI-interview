@@ -1,12 +1,5 @@
 # OmniSynkAI-interview
 
-## what i remember
-- websocket (ex.socket.io)
-- MERN
-- make data objects of a message
-- user status whether they're online or typing
-- react hook
-
 ## my thought process
 
 ### context
@@ -14,7 +7,7 @@ I made the repository to give me time to work on this outside of the time limit 
 
 However, in the rush of things, I forgot to screenshot. This is my answer to the questions as best as I can remember.
 
-I have not used web sockets before. I don't feel this question demonstrates my abilities well.  This code is messy and incomplete. I am not testing it, but if I were to actually be making a project with web sockets, I would have coded more cleanly and I would have tested the code to weed out the inevitable mistakes I'd make as I learned how to use websockets. 
+I have not used web sockets before. I don't feel my solution demonstrates my abilities well.  This code is messy and incomplete. I am not testing it, but if I were to actually be making a project with web sockets, I would have coded more cleanly and I would have tested the code to weed out the inevitable mistakes I'd make as I learned how to use websockets. 
 I thank you for your understanding and patience.
 ### thought process on the code
 
